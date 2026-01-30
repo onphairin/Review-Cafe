@@ -26,7 +26,7 @@ export default function CafeList() {
             Review Cafe
           </Typography>
           <a href='/'>
-            <Button color="inherit" sx={{ color: '#FFFFFF' }}>Home Home</Button>
+            <Button color="inherit" sx={{ color: '#0fc72eff' }}>Home Home</Button>
           </a>
           <a href='/cafes'>
             <Button color="inherit" sx={{ color: '#9a4646ff' }}>Review</Button>
